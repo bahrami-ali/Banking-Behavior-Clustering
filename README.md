@@ -5,7 +5,7 @@
  - Determine which client segments are bringing in the most revenues and pose the most risk for the bank
 
 
-## File directory
+## File Directory
 1. **data:** contains the raw data (csv and sql database). Cleaned data in final_data.csv
 2. **banking_data_preprocessing.ipynb:** clean the data and store in databases
     - *Tools used:* numpy, pandas, SQL
