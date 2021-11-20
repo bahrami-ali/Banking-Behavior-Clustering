@@ -3,7 +3,7 @@
 ## Goal
  - Use banking data to cluster and segment the customers across demographics and banking behavior
  - Determine which client segments are bringing in the most revenues and pose the most risk for the bank
- - Provide the marketing department product recommendations for each customer segment
+ - Provide product recommendations for each customer segment to the marketing department 
 
 
 ## File Directory
